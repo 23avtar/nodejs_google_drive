@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.swaraj.cdms.debug",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 62,
+      "versionName": "6.7",
+      "outputFile": "app-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}
